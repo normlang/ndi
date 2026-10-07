@@ -3,6 +3,8 @@ name = "ndi"
 version = "0.1.0"
 authors = ["Vladimir Zarypov <krre31@gmail.com>"]
 edition = "2024"
+description = "Command-line interface (CLI) for developing Norm code"
+repository = "https://github.com/normlang/ndi.git"
 
 [lib]
 name = "ndi"
