@@ -1,2 +1,2 @@
 # ndi
-Norm development interface
+Norm development interface.
