@@ -1,3 +1,5 @@
+use ndi::core::Application;
+
 fn main() {
-    println!("Norm development interface");
+    Application::new().run();
 }
